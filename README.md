@@ -1,6 +1,6 @@
 # DSSH
 
-This code is an implementation of our CVPR'19 paper. If you find our code useful, please cite the following paper:
+This code is a Tensorflow implementation of our CVPR'19 paper. If you find our code useful, please cite the following paper:
 
 ```bash
 @inproceedings{chen2019dssh,
